@@ -1,0 +1,15 @@
+C:\Users\kumarab\Clinisys\Event\bin\Debug\net6.0\Event.exe
+C:\Users\kumarab\Clinisys\Event\bin\Debug\net6.0\Event.deps.json
+C:\Users\kumarab\Clinisys\Event\bin\Debug\net6.0\Event.runtimeconfig.json
+C:\Users\kumarab\Clinisys\Event\bin\Debug\net6.0\Event.dll
+C:\Users\kumarab\Clinisys\Event\bin\Debug\net6.0\Event.pdb
+C:\Users\kumarab\Clinisys\Event\obj\Debug\net6.0\Event.csproj.AssemblyReference.cache
+C:\Users\kumarab\Clinisys\Event\obj\Debug\net6.0\Event.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kumarab\Clinisys\Event\obj\Debug\net6.0\Event.AssemblyInfoInputs.cache
+C:\Users\kumarab\Clinisys\Event\obj\Debug\net6.0\Event.AssemblyInfo.cs
+C:\Users\kumarab\Clinisys\Event\obj\Debug\net6.0\Event.csproj.CoreCompileInputs.cache
+C:\Users\kumarab\Clinisys\Event\obj\Debug\net6.0\Event.dll
+C:\Users\kumarab\Clinisys\Event\obj\Debug\net6.0\refint\Event.dll
+C:\Users\kumarab\Clinisys\Event\obj\Debug\net6.0\Event.pdb
+C:\Users\kumarab\Clinisys\Event\obj\Debug\net6.0\Event.genruntimeconfig.cache
+C:\Users\kumarab\Clinisys\Event\obj\Debug\net6.0\ref\Event.dll
